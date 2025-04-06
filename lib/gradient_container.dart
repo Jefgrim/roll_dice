@@ -1,4 +1,4 @@
-import 'package:cafe_simeona/dice_roller.dart';
+import 'package:roll_dice/dice_roller.dart';
 import 'package:flutter/material.dart';
 
 var startAlignment = Alignment.topLeft;

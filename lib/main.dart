@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:cafe_simeona/gradient_container.dart';
+import 'package:roll_dice/gradient_container.dart';
 
 void main() {
   runApp(
